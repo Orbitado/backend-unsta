@@ -10,7 +10,7 @@ namespace TP1_POO.Tests
         {
             var acc = new Account("0001", "Juan", 1000m);
             var card = new Card("1111-2222", "Juan", "1234", acc);
-            var atm = new ATM(500m);
+            var atm = new TP1_POO.ATM.ATM(500m);
 
             bool result = atm.Withdraw(card, "1234", 200m, out string message);
 
@@ -25,7 +25,7 @@ namespace TP1_POO.Tests
         {
             var acc = new Account("0001", "Juan", 1000m);
             var card = new Card("1111-2222", "Juan", "1234", acc);
-            var atm = new ATM(500m);
+            var atm = new TP1_POO.ATM.ATM(500m);
 
             bool result = atm.Withdraw(card, "0000", 100m, out string message);
 
