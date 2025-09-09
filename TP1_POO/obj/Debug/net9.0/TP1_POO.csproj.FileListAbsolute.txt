@@ -1,0 +1,12 @@
+C:\Users\juanp\Documents\workspace\code\backend-unsta\TP1_POO\bin\Debug\net9.0\TP1_POO.deps.json
+C:\Users\juanp\Documents\workspace\code\backend-unsta\TP1_POO\bin\Debug\net9.0\TP1_POO.dll
+C:\Users\juanp\Documents\workspace\code\backend-unsta\TP1_POO\bin\Debug\net9.0\TP1_POO.pdb
+C:\Users\juanp\Documents\workspace\code\backend-unsta\TP1_POO\obj\Debug\net9.0\TP1_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\Documents\workspace\code\backend-unsta\TP1_POO\obj\Debug\net9.0\TP1_POO.AssemblyInfoInputs.cache
+C:\Users\juanp\Documents\workspace\code\backend-unsta\TP1_POO\obj\Debug\net9.0\TP1_POO.AssemblyInfo.cs
+C:\Users\juanp\Documents\workspace\code\backend-unsta\TP1_POO\obj\Debug\net9.0\TP1_POO.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Documents\workspace\code\backend-unsta\TP1_POO\obj\Debug\net9.0\TP1_POO.dll
+C:\Users\juanp\Documents\workspace\code\backend-unsta\TP1_POO\obj\Debug\net9.0\refint\TP1_POO.dll
+C:\Users\juanp\Documents\workspace\code\backend-unsta\TP1_POO\obj\Debug\net9.0\TP1_POO.pdb
+C:\Users\juanp\Documents\workspace\code\backend-unsta\TP1_POO\obj\Debug\net9.0\ref\TP1_POO.dll
+C:\Users\juanp\Documents\workspace\code\backend-unsta\TP1_POO\obj\Debug\net9.0\TP1_POO.csproj.AssemblyReference.cache
