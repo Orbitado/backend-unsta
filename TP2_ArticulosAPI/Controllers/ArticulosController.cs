@@ -53,4 +53,11 @@ public class ArticulosController : Controller
         _repositorio.CreateArticulo(articulo);
         return RedirectToAction("Index");
     }
+
+    [HttpPost]
+    public IActionResult Delete(int id)
+    {
+        _repositorio.DeleteArticulo(id);
+        return RedirectToAction("Index");
+    }
 }
