@@ -1,0 +1,6 @@
+@TP2_ArticulosAPIv2_HostAddress = http://localhost:5262
+
+GET {{TP2_ArticulosAPIv2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
